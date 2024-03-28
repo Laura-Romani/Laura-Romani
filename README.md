@@ -17,6 +17,8 @@ Southern Ireland to Dublin: starting off in Shannon and all the way up to the Cl
 In between pub food and live music, passing through Galway hitch-hiking (not reccomended for the fainthearted) and finishing off at a historical airbnb in Dublin (ghost hunted), hopping from pub to pub until my return to London.
 Some of the most beautiful landscapes ever seen!
 
+![Southern Ireland](C:\Users\Laura\Downloads\facebook_1711645416590_7179161217389001963.jpg)
+
 Back to my coding journey...
 
 ## **What am I doing here?**
