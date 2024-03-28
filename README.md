@@ -2,7 +2,7 @@
 ## **Who am I?**
 print(Hello World!) - this is not a code! My name is Laura, I am Italian and I am an aspiring Software engineer.
 Before I stumbled into the coding world I was (still am) a passionate Zoology graduate who found herself (no special pronouns needed) juggling family life and far away job offers - as a woman/mother in STEM guess what the choice was? Family!
-of course I have no regrets, I have two beautiful children and a wonderful partner; but the love for nature and animals of all kinds, coupled with a strong interest in calculus and statistics has led me to one very big opportunity ------> **Python!**
+Of course I have no regrets, I have two beautiful children and a wonderful partner; but the love for nature and animals of all kinds, coupled with a strong interest in calculus and statistics has led me to one very big opportunity ------> **Python!**
 
 ### **Zoology fun fact**
 Do you know which is the longest snake in the world? It is of course a Python.
