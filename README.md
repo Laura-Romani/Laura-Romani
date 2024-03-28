@@ -14,7 +14,7 @@ I hope you enjoyed this Zoology-coding pun. Next...
 
 ### **Favourite place I have visited:**
 Southern Ireland to Dublin: starting off in Shannon and all the way up to the Cliffs of Moher (pronounced Moor), ending up in the AAran islands via the smallest fishing boat on Earth, full of sea-sick Americans, of course I endured!
-In between pub food and live music, passing through Galway hitch-hiking (not reccomended for the fainthearted) and finishing off at a historical airbnb in Dublin (ghost hunted), hopping from pub to pub until my return in London.
+In between pub food and live music, passing through Galway hitch-hiking (not reccomended for the fainthearted) and finishing off at a historical airbnb in Dublin (ghost hunted), hopping from pub to pub until my return to London.
 Some of the most beautiful landscapes ever seen!
 
 Back to my coding journey...
