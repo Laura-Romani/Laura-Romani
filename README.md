@@ -6,7 +6,7 @@ Of course I have no regrets, I have two beautiful children and a wonderful partn
 
 ### **Zoology fun fact**
 Do you know which is the longest snake in the world? It is of course a Python.
-Specifically, the reticulated Python ***Malayopython reticulatus*** from SouthEast Asia. [NHM reticulated Python](https://www.nhm.ac.uk/discover/what-is-the-biggest-snake-in-the-world.html)
+Specifically, the reticulated Python ***Malayopython reticulatus*** from Southeast Asia. [NHM reticulated Python](https://www.nhm.ac.uk/discover/what-is-the-biggest-snake-in-the-world.html)
 
 ![Image of reticulated Python](https://www.nhm.ac.uk/content/dam/nhmwww/discover/giant-snakes/reticulated-python-longest-snake-in-the-world-two-column.jpg.thumb.768.768.jpg)
 
